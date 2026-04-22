@@ -1,1 +1,3 @@
 This folder contains all the datasets used in the project
+Since the long dataset has a size of above 5 GB, it is not being provided directly. Instead it is suggest to download the open dataset
+using the code given and convert it using the code given in the ipynb folder
