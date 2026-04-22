@@ -1,1 +1,3 @@
 This folder contains the final model trained
+This contains the netcdf file of the model and ipynb folder contains the code to generate it as well as
+testing and visulization based on it.
